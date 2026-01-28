@@ -47,8 +47,8 @@ news feed, search engine, and REST API provider for AI-related topics.
 ## INSTALLATION & SETUP
 
 1. Clone the repository
-   git clone https://github.com/patelpriyanshu8878-del/ai-news-aggregator.git
-   cd ai-news-aggregator
+   git clone https://github.com/patelpriyanshu8878-del/News_web.git
+   cd News_web
 
 2. Install Dependencies
    pip install flask requests
