@@ -1,5 +1,5 @@
 ==============================================================================
-AI NEWS AGGREGATOR
+AI NEWS WEB
 ==============================================================================
 
 A lightweight Flask web application that aggregates real-time news about
